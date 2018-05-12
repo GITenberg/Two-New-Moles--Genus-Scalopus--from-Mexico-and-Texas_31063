@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34893'
     url: http://www.gutenberg.org/2009/agents/34893
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31063#Two-New-Moles--Genus-Scalopus--from-Mexico-and-Texas
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
